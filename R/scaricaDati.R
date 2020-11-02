@@ -11,7 +11,8 @@
 rm(list=objects())
 library("tidyverse")
 
-read_delim("tabellaDownloads.csv",delim=",",col_names = TRUE)->daScaricare
+read_delim("tabellaDownloads.csv",delim=",",col_names = TRUE) %>%
+  filter(!grepl("^.+idrometro.+",nomiFile))->daScaricare
 
 purrr::walk(daScaricare$nomiFile,.f=function(indirizzo){
   system(glue::glue('wget --no-check-certificate "{indirizzo}"'))

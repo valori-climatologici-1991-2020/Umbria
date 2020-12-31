@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "mm": 7,
+        "SiteID": 1683,
+        "climatologico": 12.6931,
+        "SiteName": "Monte_cucco",
+        "FullSiteCode": 1683,
+        "SiteCode": 1683,
+        "County": "Umbria",
+        "Elevation": 1155,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Monte_cucco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.729, 43.375]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "mm": 7,
+        "SiteID": 252,
+        "climatologico": 13.8521,
+        "SiteName": "Ponte_santa_maria",
+        "FullSiteCode": 252,
+        "SiteCode": 252,
+        "County": "Umbria",
+        "Elevation": 241,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Ponte_s.maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.021, 42.896]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "mm": 7,
+        "SiteID": 268,
+        "climatologico": 17.3446,
+        "SiteName": "Todi",
+        "FullSiteCode": 268,
+        "SiteCode": 268,
+        "County": "Umbria",
+        "Elevation": 211,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Todi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.41, 42.787]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "mm": 7,
+        "SiteID": 301,
+        "climatologico": 15.4489,
+        "SiteName": "Gubbio",
+        "FullSiteCode": 301,
+        "SiteCode": 301,
+        "County": "Umbria",
+        "Elevation": 449,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Gubbio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.563, 43.341]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "mm": 7,
+        "SiteID": 3539,
+        "climatologico": 18.5378,
+        "SiteName": "Perugia_santa_giuliana",
+        "FullSiteCode": 3539,
+        "SiteCode": 3539,
+        "County": "Umbria",
+        "Elevation": 412,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Perugia_santa_giuliana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.387, 43.105]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "mm": 7,
+        "SiteID": 4510,
+        "climatologico": 16.0489,
+        "SiteName": "La_cima",
+        "FullSiteCode": 4510,
+        "SiteCode": 4510,
+        "County": "Umbria",
+        "Elevation": 694,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "La_cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.122, 43.234]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "mm": 7,
+        "SiteID": 742,
+        "climatologico": 18.6221,
+        "SiteName": "Isola_polvese_1",
+        "FullSiteCode": 742,
+        "SiteCode": 742,
+        "County": "Umbria",
+        "Elevation": 263,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Polvese_1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.143, 43.115]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "mm": 7,
+        "SiteID": 748,
+        "climatologico": 19.2975,
+        "SiteName": "Passignano",
+        "FullSiteCode": 748,
+        "SiteCode": 748,
+        "County": "Umbria",
+        "Elevation": 308,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Passignano_alta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.142, 43.187]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "mm": 7,
+        "SiteID": 773,
+        "climatologico": 16.5247,
+        "SiteName": "Petrignano_d'assisi",
+        "FullSiteCode": 773,
+        "SiteCode": 773,
+        "County": "Umbria",
+        "Elevation": 212,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Petrignano_d'assisi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.537, 43.103]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "mm": 7,
+        "SiteID": 794,
+        "climatologico": 16.9813,
+        "SiteName": "San_benedetto_vecchio",
+        "FullSiteCode": 794,
+        "SiteCode": 794,
+        "County": "Umbria",
+        "Elevation": 679,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "S.benedetto_vecchio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.464, 43.437]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "mm": 7,
+        "SiteID": 799,
+        "climatologico": 16.8795,
+        "SiteName": "San_silvestro",
+        "FullSiteCode": 799,
+        "SiteCode": 799,
+        "County": "Umbria",
+        "Elevation": 369,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "S.silvestro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.674, 42.756]
+      }
+    }
+  ]
+} 

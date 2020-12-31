@@ -1,0 +1,593 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "mm": 3,
+        "SiteID": 1090,
+        "climatologico": 100.1583,
+        "SiteName": "Armenzano",
+        "FullSiteCode": 1090,
+        "SiteCode": 1090,
+        "County": "Umbria",
+        "Elevation": 614,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Armenzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.702, 43.072]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "mm": 3,
+        "SiteID": 1522,
+        "climatologico": 88.9708,
+        "SiteName": "Piediluco",
+        "FullSiteCode": 1522,
+        "SiteCode": 1522,
+        "County": "Umbria",
+        "Elevation": 389,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Piediluco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.767, 42.534]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "mm": 3,
+        "SiteID": 1652,
+        "climatologico": 70.0214,
+        "SiteName": "Narni_scalo",
+        "FullSiteCode": 1652,
+        "SiteCode": 1652,
+        "County": "Umbria",
+        "Elevation": 108,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Narni_scalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.545, 42.552]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "mm": 3,
+        "SiteID": 1653,
+        "climatologico": 68.9963,
+        "SiteName": "Cerbara",
+        "FullSiteCode": 1653,
+        "SiteCode": 1653,
+        "County": "Umbria",
+        "Elevation": 318,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Cerbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.218, 43.509]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "mm": 3,
+        "SiteID": 1682,
+        "climatologico": 76.1897,
+        "SiteName": "Vallo_di_nera",
+        "FullSiteCode": 1682,
+        "SiteCode": 1682,
+        "County": "Umbria",
+        "Elevation": 414,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Vallo_di_nera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.86, 42.757]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "mm": 3,
+        "SiteID": 2001,
+        "climatologico": 69.3385,
+        "SiteName": "Umbertide",
+        "FullSiteCode": 2001,
+        "SiteCode": 2001,
+        "County": "Umbria",
+        "Elevation": 322,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Umbertide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.35, 43.313]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "mm": 3,
+        "SiteID": 2002,
+        "climatologico": 73.248,
+        "SiteName": "Spoleto",
+        "FullSiteCode": 2002,
+        "SiteCode": 2002,
+        "County": "Umbria",
+        "Elevation": 323,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Spoleto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.739, 42.756]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "mm": 3,
+        "SiteID": 2005,
+        "climatologico": 67.8367,
+        "SiteName": "Orvieto",
+        "FullSiteCode": 2005,
+        "SiteCode": 2005,
+        "County": "Umbria",
+        "Elevation": 264,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Orvieto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.11, 42.719]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "mm": 3,
+        "SiteID": 252,
+        "climatologico": 62.031,
+        "SiteName": "Ponte_santa_maria",
+        "FullSiteCode": 252,
+        "SiteCode": 252,
+        "County": "Umbria",
+        "Elevation": 241,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Ponte_s.maria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.021, 42.896]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "mm": 3,
+        "SiteID": 266,
+        "climatologico": 73.5875,
+        "SiteName": "Petrelle",
+        "FullSiteCode": 266,
+        "SiteCode": 266,
+        "County": "Umbria",
+        "Elevation": 400,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Petrelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.16, 43.35]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "mm": 3,
+        "SiteID": 267,
+        "climatologico": 89.5667,
+        "SiteName": "Nocera_umbra",
+        "FullSiteCode": 267,
+        "SiteCode": 267,
+        "County": "Umbria",
+        "Elevation": 517,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Nocera_umbra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.791, 43.119]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "mm": 3,
+        "SiteID": 268,
+        "climatologico": 64.01,
+        "SiteName": "Todi",
+        "FullSiteCode": 268,
+        "SiteCode": 268,
+        "County": "Umbria",
+        "Elevation": 211,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Todi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.41, 42.787]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "mm": 3,
+        "SiteID": 301,
+        "climatologico": 78.8759,
+        "SiteName": "Gubbio",
+        "FullSiteCode": 301,
+        "SiteCode": 301,
+        "County": "Umbria",
+        "Elevation": 449,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Gubbio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.563, 43.341]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "mm": 3,
+        "SiteID": 3537,
+        "climatologico": 66.9692,
+        "SiteName": "San_gemini",
+        "FullSiteCode": 3537,
+        "SiteCode": 3537,
+        "County": "Umbria",
+        "Elevation": 255,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "S.gemini"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.54, 42.609]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "mm": 3,
+        "SiteID": 3539,
+        "climatologico": 63.7679,
+        "SiteName": "Perugia_santa_giuliana",
+        "FullSiteCode": 3539,
+        "SiteCode": 3539,
+        "County": "Umbria",
+        "Elevation": 412,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Perugia_santa_giuliana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.387, 43.105]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "mm": 3,
+        "SiteID": 3543,
+        "climatologico": 60.8333,
+        "SiteName": "Bevagna",
+        "FullSiteCode": 3543,
+        "SiteCode": 3543,
+        "County": "Umbria",
+        "Elevation": 205,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Bevagna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.639, 42.944]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "mm": 3,
+        "SiteID": 3549,
+        "climatologico": 66.6615,
+        "SiteName": "Terni",
+        "FullSiteCode": 3549,
+        "SiteCode": 3549,
+        "County": "Umbria",
+        "Elevation": 129,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Terni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.65, 42.56]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "mm": 3,
+        "SiteID": 3552,
+        "climatologico": 78.425,
+        "SiteName": "Amelia",
+        "FullSiteCode": 3552,
+        "SiteCode": 3552,
+        "County": "Umbria",
+        "Elevation": 333,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Amelia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.417, 42.556]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "mm": 3,
+        "SiteID": 4510,
+        "climatologico": 59.4,
+        "SiteName": "La_cima",
+        "FullSiteCode": 4510,
+        "SiteCode": 4510,
+        "County": "Umbria",
+        "Elevation": 694,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "La_cima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.122, 43.234]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "mm": 3,
+        "SiteID": 468,
+        "climatologico": 73.1333,
+        "SiteName": "Allerona",
+        "FullSiteCode": 468,
+        "SiteCode": 468,
+        "County": "Umbria",
+        "Elevation": 153,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Allerona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.034, 42.772]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "mm": 3,
+        "SiteID": 5216,
+        "climatologico": 49.8077,
+        "SiteName": "Tresa",
+        "FullSiteCode": 5216,
+        "SiteCode": 5216,
+        "County": "Umbria",
+        "Elevation": 274,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Tresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.059, 43.049]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "mm": 3,
+        "SiteID": 636,
+        "climatologico": 68.988,
+        "SiteName": "Corbara",
+        "FullSiteCode": 636,
+        "SiteCode": 636,
+        "County": "Umbria",
+        "Elevation": 151,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Lago_di_corbara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.237, 42.698]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "mm": 3,
+        "SiteID": 750,
+        "climatologico": 55.1615,
+        "SiteName": "San_savino",
+        "FullSiteCode": 750,
+        "SiteCode": 750,
+        "County": "Umbria",
+        "Elevation": 273,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "S.savino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.186, 43.106]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "mm": 3,
+        "SiteID": 792,
+        "climatologico": 85.928,
+        "SiteName": "Casa_castalda",
+        "FullSiteCode": 792,
+        "SiteCode": 792,
+        "County": "Umbria",
+        "Elevation": 663,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Casa_castalda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.659, 43.18]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "mm": 3,
+        "SiteID": 794,
+        "climatologico": 56.7111,
+        "SiteName": "San_benedetto_vecchio",
+        "FullSiteCode": 794,
+        "SiteCode": 794,
+        "County": "Umbria",
+        "Elevation": 679,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "S.benedetto_vecchio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.464, 43.437]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "mm": 3,
+        "SiteID": 797,
+        "climatologico": 67.2481,
+        "SiteName": "Forsivo",
+        "FullSiteCode": 797,
+        "SiteCode": 797,
+        "County": "Umbria",
+        "Elevation": 792,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Forsivo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.014, 42.799]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "mm": 3,
+        "SiteID": 799,
+        "climatologico": 69.6704,
+        "SiteName": "San_silvestro",
+        "FullSiteCode": 799,
+        "SiteCode": 799,
+        "County": "Umbria",
+        "Elevation": 369,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "S.silvestro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.674, 42.756]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "mm": 3,
+        "SiteID": 811,
+        "climatologico": 61.0964,
+        "SiteName": "Azzano",
+        "FullSiteCode": 811,
+        "SiteCode": 811,
+        "County": "Umbria",
+        "Elevation": 235,
+        "Comments": "Quota ricavata da dem",
+        "State": "Italy",
+        "SiteName_CentroFunzionale": "Azzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.757, 42.812]
+      }
+    }
+  ]
+} 

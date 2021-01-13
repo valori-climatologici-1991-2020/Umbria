@@ -6,4 +6,4 @@ Dati per valori climatologici
 
 [Servizio Idrografico](https://www.regione.umbria.it/ambiente/servizio-idrografico)
 
-Sono stati acquisiti i dati storici di temperatura e precipitazione. Gli anni piu' recenti derivano da una rielaborazione dei pdf contenenti le tabelle con i dati di temperatura e precipitazione.  
+Gli anni piu' recenti sono stati acquisiti rielaborando i pdf con le tabelle dei dati di temperatura e precipitazione.  

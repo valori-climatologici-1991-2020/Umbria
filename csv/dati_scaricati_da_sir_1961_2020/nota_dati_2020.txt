@@ -1,0 +1,8 @@
+Al giorno 13 gennaio i file che si scaricano mediante il programma scaricaDati.R, utilizzato per acquisire i dati dal 1961 a oggi, ancora non contengono tutti i dati del 2020 (manca almeno il mese
+di dicembre, per alcune stazioni anche piu' mesi).
+
+
+Dal sito del SIR: https://www.regione.umbria.it/ambiente/servizio-idrografico
+invece sono già disponibili i pdf con i dati 2020.
+
+Quindi: utilizziamo gli script già pronti (e rivisti) per acquisire i dati più recenti.

@@ -1,0 +1,6 @@
+Dal sito del SIR: https://www.regione.umbria.it/ambiente/servizio-idrografico
+sono disponibili i pdf con i dati 2020.
+
+Questi sono gli script già pronti (e rivisti) per acquisire i dati più recenti.
+
+Utilizzare questa anagrafica per processare (mediante gli script in R) i file di testo ottenuti dai file pdf originali scaricati dal SIR.

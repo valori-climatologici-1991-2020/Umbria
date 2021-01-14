@@ -1,0 +1,16 @@
+Per decidere se i nuovi dati (dal 1961 al 2019) scaricati dal SIR mediante gli script riportati i questo repository, sono stati confrontati i dati scaricati con i dati disponibili per i Rapporto Indicatori del Clima fino all'anno 2020 (ovvero quello che riporta le stime fino al 2019).
+
+Particolare attenzione e' stata data al periodo 2015-2019 (piu' o meno i pdf sul sito del SIR con i dati di temperatura e precipitazione, quindi dati in forma ufficiale, partono dal 2015).
+
+
+In generale per il periodo 2015-2019 i dati gia' disponibili con i nuovi dati scaricati dal SIR per lo piu' coincidono (verifica fatta mediante visdat::vis_compare e visdat::vis_miss). Per la precipitazione i nuovi dati scaricati dal SIR sono piu' ricchi di valori (diverse serie usate ni rapporti SIPRA hanno in corrispondenza NA).
+
+Temperatura:
+
+Sono stati tenuti i dati usati nei precedenti rapporti ISPRA fino all'anno 2019. Aggiunto l'anno 2020.I dati 2020 derivano dal pdf pubblicato on-line.
+
+Precipitazione:
+
+i dati fino al 2014 sono quelli usati per i vari Rapporti Ispra fino al Rapporto pubblicato nell'anno 2020. I dati dal 2015 in poi sono quelli scaricati dalsito del SIR mediante gli script e i programmi contenuti in questo repository. I dati 2020 derivano dal pdf pubblicato on-line.
+
+
